@@ -1,0 +1,6 @@
+1.目录结构 
+    manifests 
+        AndroidManifest --全局描述文件
+    java    --显示Android应用的包和源文件
+        com.XXX  --编写的java文件
+        com.XXX(AndroidTest)  --单元测试
